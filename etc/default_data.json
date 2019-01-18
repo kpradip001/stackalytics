@@ -1408,11 +1408,16 @@
             "companies": [
                 {
                     "company_name": "Rackspace",
+                    "end_date": "2018-Nov-02"
+                },
+                {
+                    "company_name": "SUSE",
                     "end_date": null
                 }
             ],
             "user_name": "Alexandra Settle",
-            "emails": ["alexandra.settle@outlook.com", "alexandra.settle@rackspace.com"]
+            "emails": ["alexandra.settle@outlook.com", "alexandra.settle@rackspace.com",
+                       "a.settle@outlook.com", "asettle@suse.com"]
         },
         {
             "launchpad_id": "alexei-kornienko",
@@ -20304,6 +20309,17 @@
             ],
             "user_name": "Pradeep Kumar Velusamy",
             "emails": ["pradeepkumar.v@cognizant.com"]
+        },
+        {
+            "launchpad_id": "pradip.kadam001",
+            "companies": [
+               {
+                   "company_name": "Dell EMC",
+                   "end_date": null
+               }
+           ],
+           "user_name": "Pradip Kadam",
+           "emails": ["pradip.kadam001@gmail.com", "pradip.kadam@calsoftinc.com", "pradip_k@dellteam.com"]
         },
         {
             "launchpad_id": "prameswar",
